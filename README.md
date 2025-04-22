@@ -1,7 +1,4 @@
 
-# CareConnect – AI-Powered Healthcare Platform 🏥🤖
-
-CareConnect is a full-stack AI-powered healthcare platform developed during  It integrates a modern web stack and machine learning to connect patients, doctors, and hospitals through a secure and intelligent interface. It also features ML-based diagnostics to support medical professionals.
 
 ---
 
