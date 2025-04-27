@@ -57,10 +57,7 @@ Bot_Coders_AMUHACKS4.0/
 
 ### 1️⃣ Clone the Repository
 
-```bash
-git clone https://github.com/prabhupachisia/Bot_Coders_AMUHACKS4.0.git
-cd Bot_Coders_AMUHACKS4.0
-```
+
 
 ---
 
